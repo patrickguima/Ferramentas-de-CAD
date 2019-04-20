@@ -7,3 +7,4 @@ Repositório destinado a disciplina de Ferramentas de CAD
 ![Screenshot](quine.png)
 
 2 - Implementação do Algoritimo A*   
+![Screenshot](astar1.png)  ![Screenshot](astar2.png)
